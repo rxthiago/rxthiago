@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**rxthiago/rxthiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👋 Olá, eu sou o @rxthiago
 - 👀 Estou interessado em  HTML, CSS, JAVASCRIPT
 - 🌱 No momento estou aprendendo ... Angular TypeScript
