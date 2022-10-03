@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou o @rxthiago
-- 👀 Estou interessado em  HTML, CSS, JAVASCRIPT
-- 🌱 No momento estou aprendendo ... Angular TypeScript
-- 💞️ Estou buscando trabalhar com Front-End
+- 👀 Estou interessado em  C# .NET / Angular
+- 🌱 No momento estou trabalhando com desenvolvimento web.
 - 📫 Contato ... E-mail - thiagooliveira1345@hotmail.com / +55(21)97027-4704
 
 <div align="center">
