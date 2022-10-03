@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou o @rxthiago
-- 👀 Estou interessado em  C# .NET / Angular
-- 🌱 No momento estou trabalhando com desenvolvimento web.
-- 📫 Contato ... E-mail - thiagooliveira1345@hotmail.com / +55(21)97027-4704
+- 👀 Estou interessado em  C# .NET / Angular / Backend. Estudo e aturo na área há dois anos e busco sempre me desenvolver também no processo.
+- 🌱 No momento estou trabalhando com desenvolvimento web, mobile e soluções web.
 
 <div align="center">
   <a href="https://github.com/rxthiago">
