@@ -1,6 +1,9 @@
 - 👋 Olá, eu sou o @rxthiago
-- 👀 Estou interessado em  C# .NET / Angular / Backend. Estudo e aturo na área há dois anos e busco sempre me desenvolver também no processo.
-- 🌱 No momento estou trabalhando com desenvolvimento web, mobile e soluções web.
+- 👀 Experiência com .NET C#, WebApi, JavaScript, TypeScript, Angular, Git, Bootstrap, CSS e HTML.
+- Banco de dados - SQL, PostgreSQL e MySQL.
+- Metologias ágeis - Kanban e Scrum
+- Versátil e com fácil curva de aprendizado em outras linguagens também. 
+- 🌱 Atualmente no mercado em desenvolvimento de aplicações para web, soluções e foco na análise de sistemas.
 
 <div align="center">
   <a href="https://github.com/rxthiago">
