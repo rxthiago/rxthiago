@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @rxthiago
-- 👀 Experiência com desenvolvimento em .NET C#, WebApi, Java, Java Spring Boot Framework, JavaScript e GIT.
+- 👀 Experiência com desenvolvimento em .NET C#, WebApi, JavaScript, TypeScript, SQL, Angular e GIT.
 - Banco de dados - SQL e MongoDB.
 - Metologias ágeis - Kanban e Scrum
 - Versátil e com fácil curva de aprendizado em outras linguagens também. 
