@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @rxthiago
-- 👀 Experiência com desenvolvimento em .NET C#, WebApi, JavaScript, TypeScript, SQL, Angular e GIT.
+- 👀 Experiência com desenvolvimento em .NET C#, WebApi, JavaScript, Java, Spring, SQL, Angular e GIT.
 - Banco de dados - SQL e MongoDB.
 - Metologias ágeis - Kanban e Scrum
 - Versátil e com fácil curva de aprendizado em outras linguagens também. 
@@ -16,11 +16,8 @@
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   
 </div>
