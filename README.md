@@ -1,9 +1,25 @@
-- 👋 Olá, eu sou o @rxthiago
-- 👀 Experiência com desenvolvimento em .NET C#, WebApi, JavaScript, Java, Spring, SQL, Angular e GIT.
-- Banco de dados - SQL e MongoDB.
-- Metologias ágeis - Kanban e Scrum
-- Versátil e com fácil curva de aprendizado em outras linguagens também. 
-- 🌱 Atualmente no mercado em desenvolvimento de aplicações para web, soluções e foco na análise de sistemas.
+- Hello, I'm Thiago, a Software Engineering student currently pursuing a postgraduate degree in Software Engineering with .NET.
+- I am passionate about software development and thrive in dynamic environments.
+- I am committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature, and networking.
+
+- Experience in Retail, E-Commerce, Technology, and Systems
+
+Hard Skills:
+- Backend
+> API´s : REST
+> Async communication: RabbitMQ, Azure Services
+> SQL: SQL Server, MySQL e PostgreSQL
+> ORM : Entity Framework e Dapper
+> Arquitetura : Clean, MVC e DDD
+
+-DevOps
+> CI/CD: Azure DevOps, Github Actions
+> Cloud: Azure
+
+-Frontend
+> AngularJS
+> JavaScript
+> TypeScript
 
 <div align="center">
   <a href="https://github.com/rxthiago">
