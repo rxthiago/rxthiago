@@ -1,4 +1,4 @@
-- Hello, I'm Thiago, a Software Engineering student currently pursuing a postgraduate degree in Software Engineering with .NET.
+- Hello, I'm Thiago, a Software Engineering currently pursuing a new major in Artificial Inteligence.
 - I am passionate about software development and thrive in dynamic environments.
 - I am committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature, and networking.
 
@@ -8,9 +8,9 @@ Hard Skills:
 - Backend
 > API´s : REST
 > Async communication: RabbitMQ, Azure Services
-> SQL: SQL Server, MySQL e PostgreSQL
-> ORM : Entity Framework e Dapper
-> Arquitetura : Clean, MVC e DDD
+> SQL: SQL Server, MySQL and PostgreSQL
+> ORM : Entity Framework and Dapper
+> Arquitetura : Clean, MVC and DDD
 
 -DevOps
 > CI/CD: Azure DevOps, Github Actions
