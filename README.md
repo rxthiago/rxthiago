@@ -1,4 +1,4 @@
-- Hello, I'm Thiago, a Software Engineering currently pursuing a new major in Artificial Inteligence.
+- Hello, I'm Thiago, a Software Engineering currently pursuing a new major FullStack Development.
 - I am passionate about software development and thrive in dynamic environments.
 - I am committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature, and networking.
 
@@ -8,12 +8,14 @@ Hard Skills:
 - Backend
 > API´s : REST
 > Async communication: RabbitMQ, Azure Services
+>  GIT
+> CI/CD, Docker, Kubernets
 > SQL: SQL Server, MySQL and PostgreSQL
 > ORM : Entity Framework and Dapper
-> Arquitetura : Clean, MVC and DDD
+> Clean, MVC and DDD
 
 -DevOps
-> CI/CD: Azure DevOps, Github Actions
+> CI/CD: Azure DevOps, Github
 > Cloud: Azure
 
 -Frontend
@@ -40,7 +42,7 @@ Hard Skills:
   
  ##
   <div> 
-    <a href="https://wa.me/5521970274704" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5521970274704" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCi0tArmDjiq6esCi7iPCwSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rxthgo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagooliveira1345@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
