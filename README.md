@@ -5,18 +5,18 @@
 - Experience in Retail, E-Commerce, Technology, and Systems
 
 Hard Skills:
-- Backend
-> API´s : REST
-> Async communication: RabbitMQ, Azure Services
->  GIT
-> CI/CD, Docker, Kubernets
-> SQL: SQL Server, MySQL and PostgreSQL
-> ORM : Entity Framework and Dapper
-> Clean, MVC and DDD
+Backend
+ .NET, C#, Java, Python
+ REST APIs
+ Asynchronous communication: RabbitMQ, Azure Services
+ Databases: SQL Server, MySQL, PostgreSQL
+ ORM: Entity Framework, Dapper
+ Architecture & Patterns: Clean Architecture, MVC
+ Domain-Driven Design (DDD)
 
 -DevOps
-> CI/CD: Azure DevOps, Github
-> Cloud: Azure
+ CI/CD: Azure DevOps
+ Cloud: Microsoft Azure
 
 -Frontend
 > AngularJS
