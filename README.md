@@ -20,7 +20,7 @@ DevOps
 
 Frontend
 - AngularJS
--JavaScript
+- JavaScript
 - TypeScript
   
 <div style="display: inline_block"><br>
