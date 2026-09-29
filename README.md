@@ -8,12 +8,16 @@
   <p>
     <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=696969" alt="C#" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=C0C0C0" alt="SQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=737373" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=Pov8Es0m6ZHz&format=png&color=808080" alt="GitHub" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=A9A9A9" alt="Java" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=696969" alt="JavaScript" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=36387&format=png&color=808080" alt="AngularJS" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=0Da6k7SMq0hs&format=png&color=A9A9A9" alt="React" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=737373" alt="Python" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=10lIo9AfRXQs&format=png&color=737373" alt="TypeScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=ckyutUQGU0PM&format=png&color=737373" alt="Docker" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=QsjZXZc0q6ln&format=png&color=737373" alt="Kubernets" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=NEYSwfKp3LSR&format=png&color=737373" alt="Azure" width="40" height="40"/>
   </p>
 </div>
 
