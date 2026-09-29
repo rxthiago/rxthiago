@@ -4,18 +4,17 @@
 
 ---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  
+<div align="center">
+  <p>
+    <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=696969" alt="C#" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=C0C0C0" alt="SQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=Pov8Es0m6ZHz&format=png&color=808080" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=A9A9A9" alt="Java" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=696969" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=36387&format=png&color=808080" alt="AngularJS" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=0Da6k7SMq0hs&format=png&color=A9A9A9" alt="React" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=000000" alt="Python" width="40" height="40"/>
+  </p>
 </div>
 
 ---
@@ -43,12 +42,3 @@
     <img src="https://img.shields.io/badge/-Email-A9A9A9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </div>
-  
-
-  
- ##
-  <div> 
-  <a href = "mailto:thiagooliveira1345@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rxthiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.youtube.com/channel/UCi0tArmDjiq6esCi7iPCwSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  </div>
