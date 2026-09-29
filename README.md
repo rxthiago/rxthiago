@@ -13,7 +13,7 @@
     <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=696969" alt="JavaScript" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=36387&format=png&color=808080" alt="AngularJS" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=0Da6k7SMq0hs&format=png&color=A9A9A9" alt="React" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=000000" alt="Python" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=12592&format=png&color=FFFFFF" alt="Python" width="40" height="40"/>
   </p>
 </div>
 
