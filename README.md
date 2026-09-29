@@ -1,27 +1,6 @@
-- Hello, I'm Thiago, a Software Engineering currently pursuing a new major FullStack Development.
-- I am passionate about software development and thrive in dynamic environments.
-- I am committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature, and networking.
-
-- Experience in Retail, E-Commerce, Technology, and Systems
-
-Hard Skills:
-Backend
- - .NET, C#, Java, Python
- - REST APIs
- - Asynchronous communication: RabbitMQ, Azure Services
- - Databases: SQL Server, MySQL, PostgreSQL
- - ORM: Entity Framework, Dapper
- - Architecture & Patterns: Clean Architecture, MVC
- - Domain-Driven Design (DDD)
-
-DevOps
- - CI/CD: Azure DevOps
- - Cloud: Microsoft Azure
-
-Frontend
-- AngularJS
-- JavaScript
-- TypeScript
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&width=435&separator=%3C&lines=string+nome+%3D+%22Thiago+Melo%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
